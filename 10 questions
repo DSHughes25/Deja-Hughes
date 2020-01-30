@@ -1,0 +1,100 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "collapsed_sections": [],
+      "authorship_tag": "ABX9TyOBVF6XE9Ex8yUk0u63kJhT",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/DSHughes25/Deja-Hughes/blob/master/10%20questions\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "7A4oJ0RQVJ_t",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 425
+        },
+        "outputId": "e6364c33-eefd-4a6e-b5d8-7303572aeebb"
+      },
+      "source": [
+        "print(\"Hello\" + \", How are you? \")\n",
+        "input()\n",
+        "print(\"Wonderful!\" + \" What is your name?\")\n",
+        "yourname = input()\n",
+        "print(\"How old are you \" + yourname + \"?\")\n",
+        "age = input()\n",
+        "print(\"How nice!\" + \" What is your favorite food?\")\n",
+        "food = input()\n",
+        "print(\"What is your favorite drink?\")\n",
+        "drink = input()\n",
+        "print(\"I like snacks too\")\n",
+        "print(\"What is your favorite color?\")\n",
+        "input()\n",
+        "print(\"What is your favorite animal?\")\n",
+        "input()\n",
+        "print(\"Do you have siblings?\")\n",
+        "sibling = input()\n",
+        "print(sibling + \"?\" + \" Well,I am an only child.\")\n",
+        "print(\"Do you like class?\")\n",
+        "school = input()\n",
+        "print(school + \" Well that's interesting.\")\n",
+        "print(\"Are you having a good day?\")\n",
+        "input()\n",
+        "print(\"I hope it gets better!\")"
+      ],
+      "execution_count": 29,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Hello, How are you? \n",
+            "I am good\n",
+            "Wonderful! What is your name?\n",
+            "Deja\n",
+            "How old are you Deja?\n",
+            "18\n",
+            "How nice! What is your favorite food?\n",
+            "noodles\n",
+            "What is your favorite drink?\n",
+            "soda\n",
+            "I like snacks too\n",
+            "What is your favorite color?\n",
+            "black\n",
+            "What is your favorite animal?\n",
+            "wolf\n",
+            "Do you have siblings?\n",
+            "yes\n",
+            "yes? Well,I am an only child.\n",
+            "Do you like class?\n",
+            "no\n",
+            "no Well that's interesting.\n",
+            "Are you having a good day?\n",
+            "yes\n",
+            "I hope it gets better!\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
